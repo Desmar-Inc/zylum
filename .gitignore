@@ -3,6 +3,9 @@ _site
 .sass-cache
 .vagrant
 
+# jetbrains
+.idea
+
 # general
 .DS_Store
 Thumbs.db
