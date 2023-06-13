@@ -15,7 +15,7 @@ Our core values are
 
 #### And finally...
 
-- Keep it simple stupid 
+- Keep It Simple, *Sensei* (much more polite than that *other* invocation) 
 
 
 ### Our story
