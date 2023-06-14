@@ -22,7 +22,6 @@ Our core values are
 
 The core team has been together since 2016, and represents the core engineering talent of Rare Media Company, makers of the (now defunt) bluedolphin field force automation platform.
 
-
 ### The Team
 
 ![delhiryder](/assets/img/delhiryder-steampunk-airship-pilot.png)
