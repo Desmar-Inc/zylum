@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Skills and Competencies
-subtitle: Things we know (and some we're working on)
+title: Skills
+subtitle: Tools and Technologies we use
 ---
 
 ![skillandcomps](/assets/img/skillandcomps-2.png)

@@ -21,7 +21,8 @@ author: Sidd Gupta
 
 navbar-links:
   About Us: "aboutus"
-  Skills and Competencies: "skillsandcomps"
+  Projects: "productsandprojects"
+  Skills: "skillsandcomps"
   Resources:
     - Lora Alliance: "https://lora-alliance.org"
     - Open Balena: "https://www.balena.io/open"
